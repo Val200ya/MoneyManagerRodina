@@ -22,13 +22,8 @@ namespace MoneyManagerRodina
         public LoginWindow()
         {
             InitializeComponent();
+            LoginFrame.Content = new LoginPage();
         }
 
-        private void Login_Button_Click(object sender, RoutedEventArgs e)
-        {
-            ManagerWindow managerWindow = new ManagerWindow();
-            managerWindow.Show();
-            this.Close();
-        }
     }
 }
