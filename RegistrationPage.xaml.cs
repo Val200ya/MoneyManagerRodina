@@ -20,6 +20,7 @@ namespace MoneyManagerRodina
     /// </summary>
     public partial class RegistrationPage : Page
     {
+        private bool registrationSuccess = false;
         public RegistrationPage()
         {
             InitializeComponent();
@@ -27,7 +28,23 @@ namespace MoneyManagerRodina
 
         private void Registrate_Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Вы успешно зарегистрировались!");
+            registrationSuccess = CheckDataRegistration();
+            if (registrationSuccess)
+            {
+                MessageBox.Show("Вы успешно зарегистрировались!");
+                NavigationService.GoBack();
+            }
+            else
+            {
+                MessageBox.Show("Не получилось зарегистрироваться.\nПопробуйте ещё раз.");
+            }
+        }
+
+        private bool CheckDataRegistration()
+        {
+            bool emptyFields = SurnameTextBox.Text.Equals("") ||
+                NameTextBox.Text.Equals("") || LoginTextBox.Text.Equals("") || PasswordBox.Password.Equals("");
+            return !emptyFields;
         }
 
         private void GoBackTextClick(object sender, MouseButtonEventArgs e)
