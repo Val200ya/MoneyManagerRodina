@@ -15,7 +15,8 @@
             <TextBlock Text="Регистрация"
                 HorizontalAlignment="Center"
                 FontSize="24px"
-                Foreground="{StaticResource TextColor}"/>
+                Foreground="{StaticResource TextColor}"
+                Margin="10px"/>
             <TextBox Style="{StaticResource TextBoxStyle}"
                      Name="NameTextBox"
                      Text="Введите имя"/>

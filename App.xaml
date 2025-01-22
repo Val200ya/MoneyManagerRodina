@@ -9,7 +9,7 @@
                 <Setter Property="Button.Width" Value="Auto"/>
                 <Setter Property="Button.Height" Value="40px"/>
                 <Setter Property="Button.FontSize" Value="18px"/>
-                <Setter Property="Button.Margin" Value="0 20px 0 0"/>
+                <Setter Property="Button.Margin" Value="0 10px 0 0"/>
                 <Setter Property="Button.Background" Value="{StaticResource ElementsColor}"/>
                 <Setter Property="Button.Foreground" Value="{StaticResource SecondaryColor}"/>
                 <Setter Property="Button.Cursor" Value="Hand"/>

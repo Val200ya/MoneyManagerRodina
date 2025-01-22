@@ -11,8 +11,9 @@
     <Grid>
         <TextBlock Text="Аккаунт"
            FontSize="36px"
-           VerticalAlignment="Center"
-           HorizontalAlignment="Center"
+           VerticalAlignment="Top"
+           HorizontalAlignment="Left"
+           Margin="20px 0"
            Foreground="{StaticResource TextColor}"/>
     </Grid>
 </Page>

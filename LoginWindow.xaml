@@ -16,7 +16,7 @@
         <TextBlock Grid.Row="0"
                    Text="Money Manager"
                    VerticalAlignment="Center"
-                   Padding="10px 0 0 0"
+                   Margin="20px 0"
                    FontSize="36px"
                    Foreground="{StaticResource TextColor}"
                    />
