@@ -5,14 +5,73 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:MoneyManagerRodina"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
+      d:DesignHeight="1080" d:DesignWidth="1920"
       Title="HomePage">
 
     <Grid>
-        <TextBlock Text="Домашняя страница"
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Основной счёт"
                    FontSize="36px"
-                   VerticalAlignment="Center"
                    HorizontalAlignment="Center"
-                   Foreground="{StaticResource TextColor}"/>
+                   Foreground="{StaticResource TextColor}"
+                   VerticalAlignment="Center"/>
+        <TextBlock Text="0.0 рублей"
+                   FontSize="40px"
+                   HorizontalAlignment="Center"
+                   Foreground="{StaticResource SecondaryColor}"
+                   Grid.Column="1"
+                   FontWeight="Bold"
+                   VerticalAlignment="Center"/>
+        <TextBlock Text="Доходы"
+                   Grid.Row="1"
+                   Foreground="{StaticResource TextColor}"
+                   HorizontalAlignment="Center"
+                   FontSize="24px"/>
+        <TextBlock Text="Расходы"
+                   Grid.Row="1"
+                   Grid.Column="1"
+                   Foreground="{StaticResource TextColor}"
+                   HorizontalAlignment="Center"
+                   FontSize="24px"/>
+        <StackPanel Grid.Row="2"
+                    Grid.ColumnSpan="2"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    Orientation="Horizontal">
+            <Button Content="Создать счёт"
+                    Width="300px"
+                    Height="60px"
+                    Background="{StaticResource ElementsColor}"
+                    Foreground="{StaticResource TextColor}"
+                    FontSize="24px"
+                    FontWeight="Bold"
+                    Cursor="Hand"/>
+            <Button Content="Добавить доход"
+                    Width="300px"
+                    Height="60px"
+                    Background="{StaticResource SecondaryColor}"
+                    Foreground="{StaticResource PrimaryColor}"
+                    FontSize="24px"
+                    FontWeight="Bold"
+                    Margin="30px 0 0 0"
+                    Cursor="Hand"/>
+            <Button Content="Добавить расход"
+                    Width="300px"
+                    Height="60px"
+                    Background="{StaticResource TextColor}"
+                    Foreground="{StaticResource ElementsColor}"
+                    FontSize="24px"
+                    FontWeight="Bold"
+                    Margin="30px 0 0 0"
+                    Cursor="Hand"/> 
+        </StackPanel>
     </Grid>
 </Page>

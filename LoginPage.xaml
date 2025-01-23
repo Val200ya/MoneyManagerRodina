@@ -16,7 +16,8 @@
                 HorizontalAlignment="Center"
                 FontSize="24px"
                 Foreground="{StaticResource TextColor}"/>
-            <TextBox Style="{StaticResource TextBoxStyle}"/>
+            <TextBox Style="{StaticResource TextBoxStyle}"
+                     VerticalContentAlignment="Center"/>
             <PasswordBox Style="{StaticResource TextBoxStyle}"/>
             <Button
                 Style="{StaticResource ButtonStyle}"

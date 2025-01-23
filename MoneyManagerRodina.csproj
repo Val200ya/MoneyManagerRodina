@@ -71,7 +71,7 @@
     <Compile Include="SpendingsPage.xaml.cs">
       <DependentUpon>SpendingsPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="User.cs" />
+    <Compile Include="Model\User.cs" />
     <Page Include="AccountPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

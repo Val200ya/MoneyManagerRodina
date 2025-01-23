@@ -5,15 +5,68 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:MoneyManagerRodina"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
+      d:DesignHeight="1080" d:DesignWidth="1920"
       Title="IncomePage">
 
     <Grid>
-        <TextBlock Text="Страница доходов"
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        
+        <TextBlock Text="Доходы"
            FontSize="36px"
-           VerticalAlignment="Top"
-           HorizontalAlignment="Left"
-           Margin="20px 0"
-           Foreground="{StaticResource TextColor}"/>
+           HorizontalAlignment="Center"
+           Foreground="{StaticResource TextColor}"
+           VerticalAlignment="Center"/>
+        
+        <TextBlock Text="0.0 рублей"
+           FontSize="36px"
+           HorizontalAlignment="Center"
+           Foreground="{StaticResource SecondaryColor}"
+           Grid.Column="1"
+           VerticalAlignment="Center"/>
+        
+        <StackPanel Grid.Row="1"
+                    Grid.Column="1"
+                    VerticalAlignment="Center">
+            
+            <Button Content="Выбрать период"
+                Width="300px"
+                Height="60px"
+                Background="{StaticResource SecondaryColor}"
+                Foreground="{StaticResource PrimaryColor}"
+                FontSize="24px"
+                FontWeight="Bold"
+                Cursor="Hand"
+                Margin="0 30px 0 0"/>
+            
+            <Button Content="Добавить доход"
+                Width="300px"
+                Height="60px"
+                Background="{StaticResource SecondaryColor}"
+                Foreground="{StaticResource PrimaryColor}"
+                FontSize="24px"
+                FontWeight="Bold"
+                Margin="0 30px 0 0"
+                Cursor="Hand"/>
+            
+            <Button Content="Новая категория"
+                Width="300px"
+                Height="60px"
+                Background="{StaticResource SecondaryColor}"
+                Foreground="{StaticResource PrimaryColor}"
+                FontSize="24px"
+                FontWeight="Bold"
+                Margin="0 30px 0 0"
+                Cursor="Hand"/> 
+            
+        </StackPanel>
     </Grid>
 </Page>

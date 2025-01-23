@@ -5,15 +5,64 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:MoneyManagerRodina"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
+      d:DesignHeight="1080" d:DesignWidth="1920"
       Title="AccountPage">
 
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
+        
         <TextBlock Text="Аккаунт"
-           FontSize="36px"
-           VerticalAlignment="Top"
-           HorizontalAlignment="Left"
-           Margin="20px 0"
-           Foreground="{StaticResource TextColor}"/>
+                   FontSize="72px"
+                   HorizontalAlignment="Center"
+                   Foreground="{StaticResource TextColor}"/>
+        
+        <StackPanel Grid.Row="1">
+
+            <TextBlock Text="Информация об аккаунте:"
+                       FontSize="72px"
+                       Margin="30px 0 0 50px"
+                       Foreground="{StaticResource TextColor}"/>
+
+            <TextBlock Text="Вася Пупкин"
+                       FontSize="56px"
+                       Margin="30px 0 0 0"
+                       Foreground="{StaticResource TextColor}"/>
+
+            <TextBlock Text="ID: 777"
+                       FontSize="38px"
+                       Margin="30px 0 0 0"
+                       Foreground="{StaticResource TextColor}"/>
+            
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal"
+                    Grid.Row="2"
+                    HorizontalAlignment="Right">
+            <Button
+                    Content="Изменить данные аккаунта"
+                    Width="400px"
+                    Height="60px"
+                    FontSize="24px"
+                    Background="{StaticResource ElementsColor}"
+                    Foreground="{StaticResource TextColor}"
+                    FontWeight="Bold"
+                    Margin="0 0 30px 0"/>
+
+            <Button Grid.Row="2"
+                    Content="Удалить аккаунт"
+                    Width="400px"
+                    Height="60px"
+                    FontSize="24px"
+                    Background="Red"
+                    Foreground="White"
+                    FontWeight="Bold"
+                    Margin="0 0 30px 0"/>
+                
+        </StackPanel>
+            
     </Grid>
 </Page>

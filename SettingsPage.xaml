@@ -9,11 +9,37 @@
       Title="SettingsPage">
 
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
         <TextBlock Text="Настройки"
            FontSize="36px"
-           VerticalAlignment="Top"
-           HorizontalAlignment="Left"
+           HorizontalAlignment="Center"
            Margin="20px 0"
            Foreground="{StaticResource TextColor}"/>
+
+        <StackPanel Grid.Row="1"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center">
+
+            <Button Content="Включить тёмную тему"
+                    Foreground="{StaticResource TextColor}"
+                    Background="{StaticResource SecondaryColor}"
+                    Width="300px"
+                    Height="60px"
+                    FontSize="24px"
+                    FontWeight="Bold"
+                    Margin="0 0 0 50px"/>
+
+            <Button Content="Выйти"
+                    Foreground="{StaticResource TextColor}"
+                    Background="{StaticResource ElementsColor}"
+                    Width="300px"
+                    Height="60px"
+                    FontSize="24px"
+                    FontWeight="Bold"/>
+        </StackPanel>
     </Grid>
 </Page>

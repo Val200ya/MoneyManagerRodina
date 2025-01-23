@@ -72,7 +72,7 @@ namespace MoneyManagerRodina {
             {
             case 1:
             
-            #line 24 "..\..\LoginPage.xaml"
+            #line 25 "..\..\LoginPage.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.Login_Button_Click);
             
             #line default
@@ -80,7 +80,7 @@ namespace MoneyManagerRodina {
             return;
             case 2:
             
-            #line 30 "..\..\LoginPage.xaml"
+            #line 31 "..\..\LoginPage.xaml"
             ((System.Windows.Controls.TextBlock)(target)).MouseDown += new System.Windows.Input.MouseButtonEventHandler(this.RegistrateTextClick);
             
             #line default
