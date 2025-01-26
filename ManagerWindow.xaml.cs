@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MoneyManagerRodina.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,9 +20,11 @@ namespace MoneyManagerRodina
     /// </summary>
     public partial class ManagerWindow : Window
     {
-        public ManagerWindow()
+        User user;
+        public ManagerWindow(User user)
         {
             InitializeComponent();
+            this.user = user;
             ManagerFrame.Navigate(new HomePage());
         }
 
@@ -42,7 +45,7 @@ namespace MoneyManagerRodina
 
         private void AccountImageClick(object sender, MouseButtonEventArgs e)
         {
-            ManagerFrame.Navigate(new AccountPage());
+            ManagerFrame.Navigate(new AccountPage(user));
         }
 
         private void SettingsImageClick(object sender, MouseButtonEventArgs e)

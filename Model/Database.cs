@@ -10,8 +10,8 @@ namespace MoneyManagerRodina.Model
     public class Database
     {
         private SqlConnection sqlConnection = new SqlConnection(
-            "@Data Source=510EC4;Initial Catalog=MoneyManagerDB;Integrated Security=True");
-
+            @"Data Source=DESKTOP-I3TLLJD;Initial Catalog=MoneyManagerDB;Integrated Security=True;Trust Server Certificate=True");
+//510EC4
         public void OpenConnection()
         {
             if (sqlConnection.State == System.Data.ConnectionState.Closed)

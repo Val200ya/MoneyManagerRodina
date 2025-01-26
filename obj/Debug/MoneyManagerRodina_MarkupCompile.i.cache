@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\admin\source\repos\MoneyManagerRodina\obj\Debug\
+C:\Users\austr\Source\Repos\MoneyManagerRodina\obj\Debug\
 MoneyManagerRodina
 none
 false
 DEBUG;TRACE
-C:\Users\admin\source\repos\MoneyManagerRodina\App.xaml
+C:\Users\austr\Source\Repos\MoneyManagerRodina\App.xaml
 10641447734
 
 16-2006909662
 13-1310406943
 AccountPage.xaml;Colors.xaml;HomePage.xaml;IncomePage.xaml;LoginPage.xaml;LoginWindow.xaml;ManagerWindow.xaml;RegistrationPage.xaml;SettingsPage.xaml;SpendingsPage.xaml;
 
-True
+False
 

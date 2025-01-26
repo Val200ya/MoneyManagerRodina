@@ -3,88 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\RegistrationPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:RegistrationPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\ManagerWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ManagerWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|c:\\users\\austr\\source\\repos\\moneymanagerrodina\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\ManagerWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:ManagerWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\AccountPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccountPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\ManagerWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:ManagerWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:LoginWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:LoginWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\ManagerWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ManagerWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:LoginPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\RegistrationPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RegistrationPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:LoginPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\AccountPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccountPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|c:\\users\\austr\\source\\repos\\moneymanagerrodina\\incomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:incomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\IncomePage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:IncomePage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\IncomePage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IncomePage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|c:\\users\\austr\\source\\repos\\moneymanagerrodina\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\HomePage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HomePage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\HomePage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:HomePage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\HomePage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HomePage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\Colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:Colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\Colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|c:\\users\\austr\\source\\repos\\moneymanagerrodina\\accountpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:accountpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\RegistrationPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RegistrationPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\AccountPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:AccountPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|c:\\users\\austr\\source\\repos\\moneymanagerrodina\\spendingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:spendingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\IncomePage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IncomePage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|c:\\users\\austr\\source\\repos\\moneymanagerrodina\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\SpendingsPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpendingsPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\SettingsPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SettingsPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\SpendingsPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:SpendingsPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\SpendingsPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpendingsPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\SettingsPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{18A16E44-8E94-4C62-BE1E-DB24E607E96E}|MoneyManagerRodina.csproj|solutionrelative:SettingsPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\SettingsPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SettingsPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,116 +146,97 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "LoginWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:55:35.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ManagerWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\ManagerWindow.xaml",
-              "RelativeDocumentMoniker": "ManagerWindow.xaml",
-              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\ManagerWindow.xaml",
-              "RelativeToolTip": "ManagerWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-21T18:55:35.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AccountPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\AccountPage.xaml.cs",
+              "RelativeDocumentMoniker": "AccountPage.xaml.cs",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\AccountPage.xaml.cs",
+              "RelativeToolTip": "AccountPage.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T20:19:41.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ManagerWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\ManagerWindow.xaml.cs",
               "RelativeDocumentMoniker": "ManagerWindow.xaml.cs",
               "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\ManagerWindow.xaml.cs",
               "RelativeToolTip": "ManagerWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAA2AAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwBoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T18:55:35.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegistrationPage.xaml",
-              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\RegistrationPage.xaml",
-              "RelativeDocumentMoniker": "RegistrationPage.xaml",
-              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\RegistrationPage.xaml",
-              "RelativeToolTip": "RegistrationPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-21T18:55:35.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegistrationPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\RegistrationPage.xaml.cs",
-              "RelativeDocumentMoniker": "RegistrationPage.xaml.cs",
-              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\RegistrationPage.xaml.cs",
-              "RelativeToolTip": "RegistrationPage.xaml.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAADwvzEAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:55:35.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "LoginWindow.xaml",
-              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginWindow.xaml",
-              "RelativeToolTip": "LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-21T18:55:35.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "LoginPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "LoginPage.xaml.cs",
               "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginPage.xaml.cs",
               "RelativeToolTip": "LoginPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA/AAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:55:35.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T18:55:35.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginPage.xaml",
               "RelativeDocumentMoniker": "LoginPage.xaml",
               "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginPage.xaml",
               "RelativeToolTip": "LoginPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-21T18:55:35.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T18:55:35.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\ManagerWindow.xaml",
+              "RelativeDocumentMoniker": "ManagerWindow.xaml",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\ManagerWindow.xaml",
+              "RelativeToolTip": "ManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T18:55:35.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "RegistrationPage.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwDEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:55:35.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountPage.xaml",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\AccountPage.xaml",
+              "RelativeDocumentMoniker": "AccountPage.xaml",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\AccountPage.xaml",
+              "RelativeToolTip": "AccountPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T18:55:35.106Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IncomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\IncomePage.xaml.cs",
-              "RelativeDocumentMoniker": "IncomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\IncomePage.xaml.cs",
-              "RelativeToolTip": "IncomePage.xaml.cs",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:58:16.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T20:03:58.309Z"
             },
             {
               "$type": "Document",
@@ -266,8 +247,7 @@
               "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\IncomePage.xaml",
               "RelativeToolTip": "IncomePage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-21T18:55:35.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T18:55:35.127Z"
             },
             {
               "$type": "Document",
@@ -279,8 +259,7 @@
               "RelativeToolTip": "HomePage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:58:10.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T18:58:10.836Z"
             },
             {
               "$type": "Document",
@@ -291,8 +270,7 @@
               "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\HomePage.xaml",
               "RelativeToolTip": "HomePage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-21T18:55:35.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T18:55:35.13Z"
             },
             {
               "$type": "Document",
@@ -303,8 +281,7 @@
               "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\Colors.xaml",
               "RelativeToolTip": "Colors.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-21T18:55:35.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T18:55:35.113Z"
             },
             {
               "$type": "Document",
@@ -315,37 +292,45 @@
               "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-21T18:55:35.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T18:55:35.093Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "AccountPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\AccountPage.xaml.cs",
-              "RelativeDocumentMoniker": "AccountPage.xaml.cs",
-              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\AccountPage.xaml.cs",
-              "RelativeToolTip": "AccountPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:57:48.095Z",
-              "EditorCaption": ""
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "RegistrationPage.xaml",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\RegistrationPage.xaml",
+              "RelativeToolTip": "RegistrationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T18:55:35.086Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "AccountPage.xaml",
-              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\AccountPage.xaml",
-              "RelativeDocumentMoniker": "AccountPage.xaml",
-              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\AccountPage.xaml",
-              "RelativeToolTip": "AccountPage.xaml",
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\LoginWindow.xaml",
+              "RelativeToolTip": "LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-21T18:55:35.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T18:55:35.099Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "IncomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\IncomePage.xaml.cs",
+              "RelativeDocumentMoniker": "IncomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\IncomePage.xaml.cs",
+              "RelativeToolTip": "IncomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:58:16.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "SpendingsPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\SpendingsPage.xaml.cs",
               "RelativeDocumentMoniker": "SpendingsPage.xaml.cs",
@@ -353,12 +338,11 @@
               "RelativeToolTip": "SpendingsPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:58:44.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T18:58:44.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "SettingsPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\SettingsPage.xaml.cs",
               "RelativeDocumentMoniker": "SettingsPage.xaml.cs",
@@ -366,12 +350,11 @@
               "RelativeToolTip": "SettingsPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:58:41.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T18:58:41.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\User.cs",
               "RelativeDocumentMoniker": "User.cs",
@@ -379,8 +362,7 @@
               "RelativeToolTip": "User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T18:55:35.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T18:55:35.024Z"
             },
             {
               "$type": "Document",
@@ -391,8 +373,7 @@
               "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\SpendingsPage.xaml",
               "RelativeToolTip": "SpendingsPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-21T18:55:35.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T18:55:35.123Z"
             },
             {
               "$type": "Document",
@@ -403,8 +384,7 @@
               "ToolTip": "C:\\Users\\austr\\source\\repos\\MoneyManagerRodina\\SettingsPage.xaml",
               "RelativeToolTip": "SettingsPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-21T18:55:35.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T18:55:35.115Z"
             }
           ]
         }

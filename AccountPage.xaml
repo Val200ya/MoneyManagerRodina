@@ -28,11 +28,13 @@
                        Foreground="{StaticResource TextColor}"/>
 
             <TextBlock Text="Вася Пупкин"
+                       Name="NameTextBlock"
                        FontSize="56px"
                        Margin="30px 0 0 0"
                        Foreground="{StaticResource TextColor}"/>
 
             <TextBlock Text="ID: 777"
+                       Name="IdTextBlock"
                        FontSize="38px"
                        Margin="30px 0 0 0"
                        Foreground="{StaticResource TextColor}"/>

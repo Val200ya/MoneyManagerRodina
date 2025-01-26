@@ -19,10 +19,11 @@ namespace MoneyManagerRodina
     /// </summary>
     public partial class LoginWindow : Window
     {
+        Window loginWindow;
         public LoginWindow()
         {
             InitializeComponent();
-            LoginFrame.Content = new LoginPage();
+            LoginFrame.Content = new LoginPage(loginWindow);
         }
 
     }

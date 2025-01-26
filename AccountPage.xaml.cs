@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MoneyManagerRodina.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +21,11 @@ namespace MoneyManagerRodina
     /// </summary>
     public partial class AccountPage : Page
     {
-        public AccountPage()
+        public AccountPage(User user)
         {
             InitializeComponent();
+            NameTextBlock.Text = $"{user.getName()} {user.getSurname()}";
+            IdTextBlock.Text = $"ID: {user.getId()}";
         }
     }
 }
