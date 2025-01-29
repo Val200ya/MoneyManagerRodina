@@ -21,7 +21,7 @@
             
             <TextBox Style="{StaticResource TextBoxStyle}"
                      VerticalContentAlignment="Center"
-                     x:Name="LoginTextBox"/>
+                     Name="LoginTextBox"/>
             
             <PasswordBox Style="{StaticResource TextBoxStyle}"
                          x:Name="PasswordTextBox"/>
