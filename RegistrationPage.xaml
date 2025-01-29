@@ -12,32 +12,40 @@
         <StackPanel Grid.Row="1"
             VerticalAlignment="Center"
             HorizontalAlignment="Center">
+            
             <TextBlock Text="Регистрация"
                 HorizontalAlignment="Center"
                 FontSize="24px"
                 Foreground="{StaticResource TextColor}"
                 Margin="10px"/>
+            
             <TextBox Style="{StaticResource TextBoxStyle}"
                      Name="NameTextBox"
                      Text="Введите имя"/>
+            
             <TextBox Style="{StaticResource TextBoxStyle}"
                      Name="SurnameTextBox"
                      Text="Введите фамилию"/>
+            
             <TextBox Style="{StaticResource TextBoxStyle}"
-                     Name="LoginTextBox"
+                     Name="RegLoginTextBox"
                      Text="Введите логин"/>
+            
             <PasswordBox Style="{StaticResource TextBoxStyle}"
-                     Name="PasswordBox"/>
+                     Name="RegPasswordTextBox"/>
+            
             <Button
                 Style="{StaticResource ButtonStyle}"
                 Content="Зарегистрироваться"
                 Click="Registrate_Button_Click"/>
+            
             <TextBlock Text="Вернуться назад"
                 Foreground="{StaticResource TextColor}"
                 HorizontalAlignment="Center"
                 Margin="0 10px 0 0"
                 Cursor="Hand"
                 MouseDown="GoBackTextClick"/>
+            
         </StackPanel>
     </Grid>
 </Page>

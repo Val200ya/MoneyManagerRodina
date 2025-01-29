@@ -8,39 +8,27 @@ namespace MoneyManagerRodina.Model
 {
     public class User
     {
-        private int user_id;
-        private string surname;
-        private string name;
-        private string login;
-        private string password;
+        private int userID;
+        private string Surname;
+        private string Name;
         
-        public User(int id, string name, string surname, string login, string password)
+        public User(int id, string name, string surname)
         {
-            this.user_id = id;
-            this.name = name;
-            this.surname = surname;
-            this.login = login;
-            this.password = password;
+            this.userID = id;
+            this.Name = name;
+            this.Surname = surname;
         }
         public int getId()
         {
-            return user_id;
+            return userID;
         }
         public string getName()
         {
-            return name;
+            return Name;
         }
         public string getSurname()
         {
-            return surname;
-        }
-        public string getLogin()
-        {
-            return login;
-        }
-        public string getPassword()
-        {
-            return password;
+            return Surname;
         }
     }
 }

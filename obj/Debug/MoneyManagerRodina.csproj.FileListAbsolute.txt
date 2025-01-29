@@ -64,3 +64,10 @@ C:\Users\austr\Source\Repos\MoneyManagerRodina\obj\Debug\MoneyManagerRodina.cspr
 C:\Users\austr\Source\Repos\MoneyManagerRodina\obj\Debug\MoneyManagerRodina.csproj.CoreCompileInputs.cache
 C:\Users\austr\Source\Repos\MoneyManagerRodina\obj\Debug\MoneyManagerRodina.exe
 C:\Users\austr\Source\Repos\MoneyManagerRodina\obj\Debug\MoneyManagerRodina.pdb
+C:\Users\austr\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.dll
+C:\Users\austr\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\austr\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.pdb
+C:\Users\austr\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.xml
+C:\Users\austr\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\austr\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\austr\Source\Repos\MoneyManagerRodina\obj\Debug\MoneyMan.C99FD68A.Up2Date

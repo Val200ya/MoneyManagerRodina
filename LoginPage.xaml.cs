@@ -69,6 +69,7 @@ namespace MoneyManagerRodina
                 }
                 password = builder.ToString();
             }
+
             if (login.Equals("") || password.Equals(""))
             {
                 MessageBox.Show("Не все поля заполнены для авторизации.");
@@ -85,7 +86,7 @@ namespace MoneyManagerRodina
             SqlDataAdapter adapter = new SqlDataAdapter();
             DataTable table = new DataTable();
 
-            string query = $"SELECT user_id, name, surname FROM users WHERE login = '{login}' AND password = '{password}'";
+            string query = $"SELECT userID, Name, Surname FROM Users WHERE Login = '{login}' AND Password = '{password}'";
 
             try
             {
@@ -96,11 +97,11 @@ namespace MoneyManagerRodina
 
                 if (table.Rows.Count == 1)
                 {
-                    var id = table.Rows[0].Field<int>("user_id");
-                    var name = table.Rows[0].Field<string>("name");
-                    var surname = table.Rows[0].Field<string>("surname");
+                    var id = table.Rows[0].Field<int>("userID");
+                    var name = table.Rows[0].Field<string>("Name");
+                    var surname = table.Rows[0].Field<string>("Surname");
                     user = new User(id, name, surname);
-                    MessageBox.Show($"Добро пожаловать, {table.Rows[0].Field<string>("name")}.");
+                    MessageBox.Show($"Добро пожаловать, {table.Rows[0].Field<string>("Name")}.");
                     return true;
                 }
                 else
