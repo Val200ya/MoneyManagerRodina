@@ -71,3 +71,10 @@ C:\Users\austr\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.xml
 C:\Users\austr\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.Wpf.pdb
 C:\Users\austr\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.Wpf.xml
 C:\Users\austr\Source\Repos\MoneyManagerRodina\obj\Debug\MoneyMan.C99FD68A.Up2Date
+C:\Users\admin\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.dll
+C:\Users\admin\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\admin\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.pdb
+C:\Users\admin\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.xml
+C:\Users\admin\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\admin\Source\Repos\MoneyManagerRodina\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\admin\Source\Repos\MoneyManagerRodina\obj\Debug\MoneyManagerRodina.csproj.CopyComplete

@@ -37,14 +37,14 @@ namespace MoneyManagerRodina
                 },
                 new PieSeries
                 {
-                    Values = new ChartValues<double> {20},
+                    Values = new ChartValues<double> {30},
                     DataLabels = true,
                     Fill = new SolidColorBrush(Colors.Green),
                     LabelPoint = chartPoint => $"{chartPoint.Y} ({chartPoint.Participation:P})"
                 },
                 new PieSeries
                 {
-                    Values = new ChartValues<double> {20},
+                    Values = new ChartValues<double> {40},
                     DataLabels = true,
                     Fill = new SolidColorBrush(Colors.Blue),
                     LabelPoint = chartPoint => $"{chartPoint.Y} ({chartPoint.Participation:P})"
